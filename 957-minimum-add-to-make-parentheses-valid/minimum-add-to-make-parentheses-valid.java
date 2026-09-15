@@ -8,7 +8,7 @@ class Solution {
             }
             else {
                 
-                if(stack.size() != 0 && stack.peek() == '('){
+                if(!stack.isEmpty() && stack.peek() == '('){
                     stack.pop();
                 }else{
                     stack.push(ch);
