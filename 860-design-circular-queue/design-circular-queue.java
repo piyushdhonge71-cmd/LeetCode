@@ -42,11 +42,11 @@ class MyCircularQueue {
         if(isEmpty()){
             return -1;
         }
-        if(rear == 0){
-            return q[q.length-1];
-        }
-        return q[rear-1];
-    }
+        // if(rear == 0){    
+        //     return q[q.length-1];
+        // }
+        // return q[rear-1];
+        return q[(rear - 1 + q.length) % q.length];    }
     
     public boolean isEmpty() {
         return size == 0;
