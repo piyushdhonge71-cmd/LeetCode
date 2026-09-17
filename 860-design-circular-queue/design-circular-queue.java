@@ -1,20 +1,24 @@
 class MyCircularQueue {
     int q[];
-    int rear = 0;
-    int front = 0;
-    int size = 0;
+    int rear;
+    int front;
+    int size;
     
 
     public MyCircularQueue(int k) {
-        q = new int[k];             
+        q = new int[k];  
+        rear = k-1;
+        front=0;
+        size = 0;         
     }
     
     public boolean enQueue(int value) {
         if(isFull()){
             return false;
         }      
-        q[rear] = value;
+        
         rear = (rear+1) % q.length;
+        q[rear] = value;
         size++;
         return true;
         
@@ -42,11 +46,9 @@ class MyCircularQueue {
         if(isEmpty()){
             return -1;
         }
-        // if(rear == 0){    
-        //     return q[q.length-1];
-        // }
-        // return q[rear-1];
-        return q[(rear - 1 + q.length) % q.length];    }
+        
+        return q[rear];
+    }
     
     public boolean isEmpty() {
         return size == 0;
