@@ -26,9 +26,7 @@ class Solution {
             int ans = Integer.MIN_VALUE;
             for(int i=0; i<size; i++){
                 TreeNode node = q.poll();
-;                if(ans < node.val){
-                    ans = node.val;
-                }
+;                ans = Math.max(ans, node.val);
                 if(node.left != null){
                     q.add(node.left);
                 }
