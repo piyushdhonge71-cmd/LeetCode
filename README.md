@@ -39,4 +39,8 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
