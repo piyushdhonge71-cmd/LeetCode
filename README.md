@@ -25,6 +25,7 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0733-flood-fill](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0733-flood-fill/) | Easy |
 ## Matrix
@@ -39,6 +40,7 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
