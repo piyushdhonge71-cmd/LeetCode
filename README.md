@@ -30,6 +30,7 @@ My LeetCode Solutions
 | [0128-longest-consecutive-sequence](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0733-flood-fill](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
