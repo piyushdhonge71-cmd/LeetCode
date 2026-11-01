@@ -57,6 +57,7 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0344-reverse-string](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ My LeetCode Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Simulation
