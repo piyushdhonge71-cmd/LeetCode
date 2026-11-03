@@ -6,11 +6,13 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0112-path-sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0733-flood-fill](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0733-flood-fill](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -76,6 +78,7 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0112-path-sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0112-path-sum/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +87,5 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0112-path-sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
