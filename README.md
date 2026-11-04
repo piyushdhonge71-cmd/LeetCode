@@ -31,6 +31,7 @@ My LeetCode Solutions
 | [0035-search-insert-position](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0164-maximum-gap](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0733-flood-fill](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -88,4 +89,20 @@ My LeetCode Solutions
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0112-path-sum/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
