@@ -27,6 +27,7 @@ My LeetCode Solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -43,6 +44,7 @@ My LeetCode Solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Binary Search
