@@ -56,6 +56,7 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
