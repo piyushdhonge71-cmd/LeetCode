@@ -35,6 +35,7 @@ My LeetCode Solutions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0164-maximum-gap](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+| [0283-move-zeroes](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0733-flood-fill](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -67,6 +68,7 @@ My LeetCode Solutions
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
