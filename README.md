@@ -37,6 +37,7 @@ My LeetCode Solutions
 | [0128-longest-consecutive-sequence](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0733-flood-fill](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -56,6 +57,7 @@ My LeetCode Solutions
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@ My LeetCode Solutions
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
