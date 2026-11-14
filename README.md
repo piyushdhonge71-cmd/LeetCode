@@ -33,6 +33,7 @@ My LeetCode Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -112,6 +113,7 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0164-maximum-gap](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -142,4 +144,8 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
