@@ -86,6 +86,7 @@ My LeetCode Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -139,6 +140,7 @@ My LeetCode Solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -148,4 +150,12 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
