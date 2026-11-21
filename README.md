@@ -53,6 +53,7 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -88,6 +89,7 @@ My LeetCode Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -163,4 +165,8 @@ My LeetCode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
