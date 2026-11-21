@@ -55,6 +55,7 @@ My LeetCode Solutions
 | [0001-two-sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0242-valid-anagram](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ My LeetCode Solutions
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -118,6 +120,7 @@ My LeetCode Solutions
 | [0015-3sum](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0164-maximum-gap](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+| [0242-valid-anagram](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
