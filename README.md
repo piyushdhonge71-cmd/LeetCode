@@ -69,6 +69,7 @@ My LeetCode Solutions
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [2235-add-two-integers](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/piyushdhonge71-cmd/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
