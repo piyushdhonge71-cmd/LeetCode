@@ -3,13 +3,12 @@ class Solution {
         if(s.length() != t.length()){
             return false;
         }
+        char[] x = s.toCharArray();
+        char[] y = t.toCharArray();
+        
+        Arrays.sort(x);
+        Arrays.sort(y);
 
-        char[] S = s.toCharArray();
-        char[] T = t.toCharArray();
-
-        Arrays.sort(S);
-        Arrays.sort(T);
-
-        return Arrays.equals(S,T);
+        return Arrays.equals(x,y);
     }
 }
